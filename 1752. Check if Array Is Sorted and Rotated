@@ -1,0 +1,29 @@
+class Solution {
+public:
+    bool isSorted(vector<int> & nums)
+    {
+        for(int i=0;i<nums.size()-1;i++){
+        for(int j=0;j<nums.size()-i-1;j++){
+          if (nums[j] > nums[j+1]) {
+            return 0;
+          }
+        }
+        return 1;
+    }
+    return 1;
+    }
+    bool check(vector<int>& nums) {
+    bool result = true;
+    if(!isSorted(nums)){
+        for(int i = 0;i<nums.size();i++){
+            rotate(nums.begin(), nums.begin() + 1, nums.end());
+            cout << "RAN1" << endl;
+            if(isSorted(nums)){
+                return true;
+            }
+        }
+        return false;
+    }
+    return true;
+    }
+};
