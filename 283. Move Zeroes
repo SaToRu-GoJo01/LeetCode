@@ -1,0 +1,15 @@
+class Solution {
+public:
+    void moveZeroes(vector<int>& nums) {
+        int writeIdx = 0;
+        for(int readIdx = 0;readIdx < nums.size();readIdx++){
+            if(nums[readIdx] != 0){
+                nums[writeIdx] = nums[readIdx];
+                writeIdx++;
+            }
+        }
+        while(writeIdx < nums.size()){
+            nums[writeIdx++] = 0;
+        }
+    }
+};
