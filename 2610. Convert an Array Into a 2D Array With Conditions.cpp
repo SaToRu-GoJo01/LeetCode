@@ -18,8 +18,7 @@ public:
                     it++;
                 }
             }
-            result.push_back(extra);
-            extra.clear();
+            result.push_back(move(extra));
         }
         return result;
     }
