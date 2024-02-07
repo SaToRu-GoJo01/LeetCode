@@ -19,3 +19,28 @@ public:
         return s;
     }
 };
+
+// SECOND APPROACH
+class Solution {
+public:
+    string frequencySort(string s) {
+        unordered_map<char,int> freq;
+        for(char &i:s){
+            freq[i]++;
+        }
+        s = "";
+        while(!freq.empty()){
+            int maximum = INT_MIN;
+            int character;
+            for(auto &j:freq){
+                if(maximum < j.second){
+                    maximum = j.second;
+                    character = j.first;
+                }
+            }
+            freq.erase(character);
+            s += string(maximum,character);
+        }
+        return s;
+    }
+};
