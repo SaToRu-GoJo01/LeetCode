@@ -2,7 +2,7 @@
 // class Solution {
 // public:
 //     int memo[1001][1001];
-//     bool checkPalindrome(int i,int j,string s){
+//     bool checkPalindrome(int i,int j,string &s){
 //         if(i > j) {
 //             return true;
 //         }
