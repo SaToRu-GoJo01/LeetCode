@@ -20,3 +20,20 @@ public:
         return false;
     }
 };
+
+// PYTHON
+class Solution:
+    def judgeCircle(self, moves: str) -> bool:
+        l,r,u,d = 0,0,0,0
+        for i in moves:
+            if i == 'L':
+                l+=1
+            elif i == 'R':
+                r+=1
+            elif i == 'U':
+                u+=1
+            else:
+                d+=1
+        if l - r == 0 and u - d == 0:
+            return True
+        return False
