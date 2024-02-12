@@ -36,5 +36,18 @@ public:
             left++;
         }
         return {0};
+
+
+        // USING HASHING AND COMPLEMENT ELEMENT
+        vector<int> twoSum(vector<int>& nums, int target) {
+        unordered_map<int,int> mp;
+        for(int i=0;i<nums.size();i++){
+            int complement = target - nums[i];
+            if(mp.count(complement)){
+                return {mp[complement],i};
+            }
+            mp[nums[i]] = i;
+        }
+        return {};
     }
 };
