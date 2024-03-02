@@ -23,3 +23,28 @@ public:
         return result;
     }
 };
+
+
+class Solution {
+public:
+    vector<int> postorderTraversal(TreeNode* root) {
+        // ITERATIVE METHOD USING TWO STACKS
+        vector<int> result;
+        if(root == nullptr) return result;
+        stack<TreeNode*> s1,s2;
+        s1.push(root);
+        while(!s1.empty()){
+            TreeNode*temp = s1.top();
+            s2.push(temp);
+            s1.pop();
+            if(temp->left) s1.push(temp->left);
+            if(temp->right) s1.push(temp->right);
+        }
+        while(!s2.empty()){
+            TreeNode*temp = s2.top();
+            s2.pop();
+            result.push_back(temp->val);
+        }
+        return result;
+    }
+};
