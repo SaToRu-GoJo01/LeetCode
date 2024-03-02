@@ -11,7 +11,6 @@
  */
 class Solution {
 public:
-    int result;
     int inOrder(TreeNode* root){
         if(root == nullptr) return 0;
         int left = 1+inOrder(root->left);
