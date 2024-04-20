@@ -9,10 +9,8 @@ class Solution:
                 x = i
             if(y <= j):
                 y = j
-            traversal(i-1,j)
             traversal(i+1,j)
             traversal(i,j+1)
-            traversal(i,j-1)
         x,y=0,0
         visited = [[False for _ in range(len(land[0]))] for _ in range(len(land))]
         result = []
