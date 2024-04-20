@@ -9,9 +9,7 @@ public:
         if(y <= j) y=j;
         visited[i][j] = true;
         traversal(i+1,j,land,visited);
-        traversal(i-1,j,land,visited);
         traversal(i,j+1,land,visited);
-        traversal(i,j-1,land,visited);
     }
     vector<vector<int>> findFarmland(vector<vector<int>>& land) {
         vector<vector<bool>> visited(land.size(),vector<bool>(land[0].size(),false));
