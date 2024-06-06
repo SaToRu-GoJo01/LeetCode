@@ -7,8 +7,6 @@ class Solution:
 
         count = Counter(hand)
 
-        print(count)
-
         for card in hand:
             if count[card] == 0:
                 continue
