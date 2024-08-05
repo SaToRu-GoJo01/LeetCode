@@ -1,15 +1,11 @@
-class Solution {
-public:
-    string makeGood(string s) {
-        for(int i=1;i<s.size();){
-            if(abs(s[i] - s[i-1]) == 32 ){
-                s.erase(i-1,2);
-                i=1;
-            }
-            else{
-                i++;
-            }
-        }
-        return s;
-    }
-};
+class Solution:
+    def makeGood(self, s: str) -> str:
+        stack = []
+
+        for char in s:
+            if stack and abs(ord(stack[-1]) - ord(char)) == 32:
+                stack.pop()
+            else:
+                stack.append(char)
+        
+        return "".join(stack)
