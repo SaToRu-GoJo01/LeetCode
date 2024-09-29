@@ -1,9 +1,9 @@
 class Solution:
     def largestOddNumber(self, num: str) -> str:
-        result = ""
         i = 0
+        pos = -1
         while i < len(num):
             if (ord(num[i])-48) % 2 != 0:
-                result = num[:i+1]
+                pos = i
             i+=1
-        return result
+        return num[:pos+1] if pos != -1 else ""
