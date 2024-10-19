@@ -1,5 +1,5 @@
 class Solution {
-     public char findKthBit(int n, int k) {
+     public static char findKthBit(int n, int k) {
         StringBuilder str = new StringBuilder("0");
         for(int i = 0; i<n-1; i++){
             StringBuilder inverted = new StringBuilder();
