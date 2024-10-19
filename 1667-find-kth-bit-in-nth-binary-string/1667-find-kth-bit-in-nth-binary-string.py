@@ -7,5 +7,4 @@ class Solution:
                 inverted += "1" if ch == "0" else "0"
             new_s = s + "1" + inverted[::-1]
             s = new_s
-        # print(s)
         return s[k-1]
