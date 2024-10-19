@@ -1,16 +1,20 @@
 class Solution {
-     public static char findKthBit(int n, int k) {
-        StringBuilder str = new StringBuilder("0");
-        for(int i = 0; i<n-1; i++){
-            StringBuilder inverted = new StringBuilder();
-            for(int j = 0; j<str.length(); j++){
-                if(str.charAt(j) == '0')
-                    inverted.append('1');
-                else
-                    inverted.append('0');
-            }
-            str = str.append('1').append(inverted.reverse());
+    public char findKthBit(int n, int k) {
+        return solve(n,k);
+    }
+    private char solve(int n,int k){
+        if(n == 1 || k == 1){
+            return '0';
         }
-        return str.charAt(k-1);
+        int len = ((int)Math.pow(2,n))-1;
+        int mid = (len/2) + 1;
+        if(mid == k){
+            return '1';
+        }
+        if(mid > k){
+            return solve(n-1,k);
+        }
+        int mirrored = mid - (k - mid);
+        return solve(n-1,mirrored)=='0'?'1':'0';
     }
 }
