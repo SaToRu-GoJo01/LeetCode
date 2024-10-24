@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0744-network-delay-time) |
+| [0988-flip-equivalent-binary-trees](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 ## Graph
 |  |
 | ------- |
@@ -92,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Tree
+|  |
+| ------- |
+| [0988-flip-equivalent-binary-trees](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0988-flip-equivalent-binary-trees](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 <!---LeetCode Topics End-->
