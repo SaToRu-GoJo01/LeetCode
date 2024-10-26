@@ -1,23 +1,3 @@
-// class Solution {
-//     public int findContentChildren(int[] g, int[] s) {
-//         Arrays.sort(g);
-//         Arrays.sort(s);
-//         int count = 0;
-//         int i = 0;
-//         int j = 0;
-//         for(;i<g.length;i++){
-//             while(j < s.length && g[i] > s[j]){
-//                 j++;
-//             }
-//             if(j < s.length){
-//                 count++;
-//                 j++;
-//             }
-//         }
-//         return count;
-//     }
-// }
-
 import java.util.Arrays;
 
 class Solution {
