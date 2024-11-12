@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0455-assign-cookies) |
 | [1256-rank-transform-of-an-array](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+## Binary Search
+|  |
+| ------- |
+| [2179-most-beautiful-item-for-each-query](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 <!---LeetCode Topics End-->
