@@ -111,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2179-most-beautiful-item-for-each-query](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
