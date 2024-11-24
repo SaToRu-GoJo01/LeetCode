@@ -22,7 +22,6 @@ class Solution {
                 sum += Math.abs(matrix[i][j]);
             }
         }
-        System.out.println(sum + "," + negatives + "," + less + "," + less_negative);
         if(negatives % 2 == 0 || zero){
             return sum;
         }
