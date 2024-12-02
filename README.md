@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0455-assign-cookies](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0455-assign-cookies) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1972-rotating-the-box](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1972-rotating-the-box) |
 | [3195-separate-black-and-white-balls](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -20,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Array
 |  |
 | ------- |
