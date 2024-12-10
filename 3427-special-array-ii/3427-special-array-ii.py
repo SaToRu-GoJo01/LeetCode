@@ -10,7 +10,6 @@ class Solution:
             oddEven = num % 2    
             prefix_sum.append(running)
 
-        print(prefix_sum)
         ans = []
 
         for x,y in queries:
