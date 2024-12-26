@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Monotonic Stack
 |  |
@@ -163,4 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0494-target-sum) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
