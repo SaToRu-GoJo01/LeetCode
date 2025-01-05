@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2465-shifting-letters-ii](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/3195-separate-black-and-white-balls) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2465-shifting-letters-ii](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/3427-special-array-ii) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/3427-special-array-ii) |
 ## Recursion
