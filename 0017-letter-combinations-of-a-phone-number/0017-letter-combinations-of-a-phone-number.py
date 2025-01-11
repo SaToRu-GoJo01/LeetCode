@@ -1,41 +1,25 @@
 class Solution:
-    def letterCombinations(self, d: str) -> List[str]:
-        digits = {}
-        digits['2'] = "abc"
-        digits['3'] = "def"
-        digits['4'] = "ghi"
-        digits['5'] = "jkl"
-        digits['6'] = "mno"
-        digits['7'] = "pqrs"
-        digits['8'] = "tuv"
-        digits['9'] = "wxyz"
-        digits['1'] = " "
-        ans = []
+    def letterCombinations(self, digits: str) -> List[str]:
+        res = []
+        digitToChar = {
+            "2": "abc",
+            "3": "def",
+            "4": "ghi",
+            "5": "jkl",
+            "6": "mno",
+            "7": "qprs",
+            "8": "tuv",
+            "9": "wxyz",
+        }
 
-        for i in range(4-len(d)):
-            d += '1'
+        def backtrack(i, curStr):
+            if len(curStr) == len(digits):
+                res.append(curStr)
+                return
+            for c in digitToChar[digits[i]]:
+                backtrack(i + 1, curStr + c)
 
-        for first in digits[d[0]]:
-            if first == ' ':
-                break
-            temp = ""
-            temp = temp + first
-            for second in digits[d[1]]:
-                if second == ' ':
-                    ans.append(temp)
-                    break
-                temp2 = temp + second
-                for third in digits[d[2]]:
-                    if third == ' ':
-                        ans.append(temp2)
-                        break
-                    temp3 = temp2 + third
-                    for fourth in digits[d[3]]:
-                        if fourth == ' ':
-                            ans.append(temp3)
-                            break
-                        temp4 = temp3 + fourth
-                        ans.append(temp4)
-                        # print(temp4)]8
+        if digits:
+            backtrack(0, "")
 
-        return ans
+        return res
