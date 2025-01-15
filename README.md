@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0175-combine-two-tables) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 ## Sliding Window
 |  |
 | ------- |
