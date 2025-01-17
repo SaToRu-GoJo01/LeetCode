@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0744-network-delay-time) |
+| [1035-cousins-in-binary-tree](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1036-rotting-oranges) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Matrix
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0744-network-delay-time) |
 | [0988-flip-equivalent-binary-trees](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1035-cousins-in-binary-tree](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Graph
 |  |
@@ -158,11 +160,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1035-cousins-in-binary-tree](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1035-cousins-in-binary-tree](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search
 |  |
