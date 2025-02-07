@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1036-rotting-oranges) |
 | [1256-rank-transform-of-an-array](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1364-tuple-with-same-product](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1694-make-sum-divisible-by-p](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1364-tuple-with-same-product](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1694-make-sum-divisible-by-p](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
