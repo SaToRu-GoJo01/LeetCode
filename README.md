@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0744-network-delay-time) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2434-design-a-number-container-system](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Shortest Path
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2434-design-a-number-container-system](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -227,9 +229,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [2434-design-a-number-container-system](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
