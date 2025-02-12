@@ -1,25 +1,25 @@
+from typing import List
+from collections import defaultdict
+
 class Solution:
     def maximumSum(self, nums: List[int]) -> int:
-        def s(i):
-            sum = 0
-            while i != 0:
-                sum += i%10
-                i //= 10
-            return sum
+        def digit_sum(n):
+            total = 0
+            while n:
+                total += n % 10
+                n //= 10
+            return total
+
         dic = defaultdict(list)
-        for index,i in enumerate(nums):
-            dic[s(i)].append(index)
+        
+        for num in nums:
+            dic[digit_sum(num)].append(num)
+
         ans = -1
         
-        for indices in dic.values():
-            if len(indices) >= 2:
-                max1,max2 = float('-inf'),float('-inf')
-                for index in indices:
-                    if(max1 < nums[index]):
-                        max2 = max1
-                        max1 = nums[index]
-                    elif(max2 < nums[index]):
-                        max2 = nums[index]
-                ans = max(ans,max1+max2)
-                
+        for values in dic.values():
+            if len(values) >= 2:
+                max1, max2 = sorted(values, reverse=True)[:2]
+                ans = max(ans, max1 + max2)
+
         return ans
