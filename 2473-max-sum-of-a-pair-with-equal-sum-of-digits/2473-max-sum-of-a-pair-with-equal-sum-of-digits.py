@@ -1,5 +1,6 @@
 from typing import List
 from collections import defaultdict
+import heapq
 
 class Solution:
     def maximumSum(self, nums: List[int]) -> int:
@@ -19,7 +20,7 @@ class Solution:
         
         for values in dic.values():
             if len(values) >= 2:
-                max1, max2 = sorted(values, reverse=True)[:2]
+                max1, max2 = heapq.nlargest(2, values)
                 ans = max(ans, max1 + max2)
 
         return ans
