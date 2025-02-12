@@ -1,6 +1,5 @@
 class Solution:
     def maximumSum(self, nums: List[int]) -> int:
-        new_nums = []
         def s(i):
             sum = 0
             while i != 0:
@@ -11,7 +10,7 @@ class Solution:
         for index,i in enumerate(nums):
             dic[s(i)].append(index)
         ans = -1
-        # print(dic)
+        
         for indices in dic.values():
             if len(indices) >= 2:
                 max1,max2 = float('-inf'),float('-inf')
@@ -22,5 +21,5 @@ class Solution:
                     elif(max2 < nums[index]):
                         max2 = nums[index]
                 ans = max(ans,max1+max2)
-                # print(ans,max1,max2,indices)
+                
         return ans
