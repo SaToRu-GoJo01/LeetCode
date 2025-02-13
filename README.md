@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3427-special-array-ii](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/3427-special-array-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Breadth-First Search
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/3447-clear-digits) |
 ## Tree
