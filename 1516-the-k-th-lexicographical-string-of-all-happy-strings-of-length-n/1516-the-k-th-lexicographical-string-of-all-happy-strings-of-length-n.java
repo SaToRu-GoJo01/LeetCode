@@ -1,21 +1,27 @@
 class Solution {
-    int n2;
-    public String getHappyString(int n, int k) {
-        n2 = n;
-        return dfs(new StringBuilder(), n, k);
+    private int count = 0;
+    private String ans = null;
+    public void recursion(String abc,String curr,char added,int n,int k){
+        if(ans != null){
+            return;
+        }
+        if(curr.length() == n){
+            ++count;
+            if(count == k){
+                ans = curr;
+            }
+            return;
+        }
+        for(int i = 0;i<3;i++){
+            if(added != abc.charAt(i)){
+                recursion(abc,curr+abc.charAt(i),abc.charAt(i),n,k);
+            }
+        }
     }
-
-    public String dfs(StringBuilder prefix, int n, int k){
-        if(n==0)
-            return prefix.toString();
-        for(char c='a'; c<='c'; c++){
-            if(prefix.length()>0 && c==prefix.charAt(prefix.length()-1))
-                continue;
-            int cnt = (int)Math.pow(2, n2-prefix.length()-1);
-            if(cnt>=k)
-                return dfs(prefix.append(c), n-1, k);
-            else
-                k-=cnt;
+    public String getHappyString(int n, int k) {
+        recursion("abc","",'_',n,k);
+        if(ans != null){
+            return ans;
         }
         return "";
     }
