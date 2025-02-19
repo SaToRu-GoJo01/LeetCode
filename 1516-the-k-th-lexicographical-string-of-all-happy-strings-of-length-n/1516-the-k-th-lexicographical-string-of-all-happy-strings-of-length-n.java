@@ -2,6 +2,9 @@ class Solution {
     private int count = 0;
     private String ans = null;
     public void recursion(String abc,String curr,char added,int n,int k){
+        if(ans != null){
+            return;
+        }
         if(curr.length() == n){
             ++count;
             if(count == k){
