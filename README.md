@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0822-unique-morse-code-words](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0822-unique-morse-code-words) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1025-minimum-cost-for-tickets](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1036-rotting-oranges) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0822-unique-morse-code-words](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0822-unique-morse-code-words) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -278,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
