@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Greedy
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0494-target-sum](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0494-target-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Backtracking
 |  |
