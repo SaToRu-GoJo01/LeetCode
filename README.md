@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2145-grid-game) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2465-shifting-letters-ii](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0744-network-delay-time) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2434-design-a-number-container-system](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -295,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
