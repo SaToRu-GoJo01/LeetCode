@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0494-target-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0822-unique-morse-code-words](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [3427-special-array-ii](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/3427-special-array-ii) |
 ## Database
