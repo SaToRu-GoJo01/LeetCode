@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0744-network-delay-time) |
 | [1035-cousins-in-binary-tree](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1036-rotting-oranges) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0744-network-delay-time) |
 | [0988-flip-equivalent-binary-trees](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Graph
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search
