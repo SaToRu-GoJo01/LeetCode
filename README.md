@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1972-rotating-the-box](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1972-rotating-the-box) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2089-maximum-matrix-sum](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2145-grid-game) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Counting
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Greedy
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0494-target-sum](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0494-target-sum) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -317,4 +321,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
