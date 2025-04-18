@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0038-count-and-say) |
 | [0822-unique-morse-code-words](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [1502-construct-k-palindrome-strings](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
