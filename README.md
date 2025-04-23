@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1500-count-largest-group](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1694-make-sum-divisible-by-p](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1500-count-largest-group](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/2032-largest-odd-number-in-string) |
