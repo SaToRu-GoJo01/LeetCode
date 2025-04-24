@@ -1,18 +1,23 @@
+from typing import List
+
 class Solution:
     def countCompleteSubarrays(self, nums: List[int]) -> int:
-        st = set(nums)
-        total = len(st)
-        i,j = 0,0
+        unique_elements = set(nums)
+        total_unique = len(unique_elements)
         n = len(nums)
-        mpp = {}
+        
+        i = 0
         ans = 0
-        while j < n:
-            mpp[nums[j]] = mpp.get(nums[j],0) + 1
-            while len(mpp) == total:
+        freq_map = {}
+
+        for j in range(n):
+            freq_map[nums[j]] = freq_map.get(nums[j], 0) + 1
+
+            while len(freq_map) == total_unique:
                 ans += (n - j)
-                mpp[nums[i]] -= 1
-                if mpp[nums[i]] == 0:
-                    del mpp[nums[i]]
+                freq_map[nums[i]] -= 1
+                if freq_map[nums[i]] == 0:
+                    del freq_map[nums[i]]
                 i += 1
-            j += 1
+
         return ans
