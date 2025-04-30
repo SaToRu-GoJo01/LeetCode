@@ -2,5 +2,6 @@ class Solution:
     def findNumbers(self, nums: List[int]) -> int:
         ans = 0
         for n in nums:
-            ans += 1 if len(str(n)) % 2 == 0 else 0
+            if (n >= 10 and n <= 99) or (n >= 1000 and n <= 9999) or (n >= 100000 and n <= 999999):
+                ans += 1 
         return ans
