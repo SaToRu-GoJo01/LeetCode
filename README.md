@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1036-rotting-oranges) |
 | [1256-rank-transform-of-an-array](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SaToRu-GoJo01/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
